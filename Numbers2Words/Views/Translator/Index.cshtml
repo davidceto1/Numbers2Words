@@ -1,0 +1,17 @@
+﻿@model Numbers2Words.Models.TranslatorModel
+@{
+    ViewData["Title"] = "Translator";
+}
+
+<h2>Numbers to Words Web Page</h2>
+
+@*<a asp-action="Translate" asp-route-id="@item.ID">Translate</a>*@
+
+<form asp-controller="Translator" asp-action="Translate">
+    <p>
+        Type number here: <input asp-for="number" />
+    </p>
+    <div class="form-group">
+        <input type="submit" value="Translate" class="btn btn-primary" />
+    </div>
+</form>
