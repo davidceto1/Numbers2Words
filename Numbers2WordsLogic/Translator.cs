@@ -289,7 +289,7 @@ namespace Numbers2WordsLogic
                 case 7:
                     return "seven";
                 case 8:
-                    return "eigth";
+                    return "eight";
                 case 9:
                     return "nine";
                 case 10:
@@ -299,7 +299,7 @@ namespace Numbers2WordsLogic
                 case 12:
                     return "twelve";
                 case 13:
-                    return "therteen";
+                    return "thirteen";
                 case 14:
                     return "fourteen";
                 case 15:

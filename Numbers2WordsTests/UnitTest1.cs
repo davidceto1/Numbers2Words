@@ -16,12 +16,12 @@ namespace Numbers2WordsTests
             AssertTranslateTest("5", "five dollars");
             AssertTranslateTest("6", "six dollars");
             AssertTranslateTest("7", "seven dollars");
-            AssertTranslateTest("8", "eigth dollars");
+            AssertTranslateTest("8", "eight dollars");
             AssertTranslateTest("9", "nine dollars");
             AssertTranslateTest("10", "ten dollars");
             AssertTranslateTest("11", "eleven dollars");
             AssertTranslateTest("12", "twelve dollars");
-            AssertTranslateTest("13", "therteen dollars");
+            AssertTranslateTest("13", "thirteen dollars");
             AssertTranslateTest("14", "fourteen dollars");
             AssertTranslateTest("15", "fifteen dollars");
             AssertTranslateTest("16", "sixteen dollars");
@@ -36,7 +36,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("25", "twenty five dollars");
             AssertTranslateTest("26", "twenty six dollars");
             AssertTranslateTest("27", "twenty seven dollars");
-            AssertTranslateTest("28", "twenty eigth dollars");
+            AssertTranslateTest("28", "twenty eight dollars");
             AssertTranslateTest("29", "twenty nine dollars");
             AssertTranslateTest("30", "thirty dollars");
             AssertTranslateTest("31", "thirty one dollars");
@@ -46,7 +46,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("35", "thirty five dollars");
             AssertTranslateTest("36", "thirty six dollars");
             AssertTranslateTest("37", "thirty seven dollars");
-            AssertTranslateTest("38", "thirty eigth dollars");
+            AssertTranslateTest("38", "thirty eight dollars");
             AssertTranslateTest("39", "thirty nine dollars");
             AssertTranslateTest("40", "forty dollars");
             AssertTranslateTest("41", "forty one dollars");
@@ -56,7 +56,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("45", "forty five dollars");
             AssertTranslateTest("46", "forty six dollars");
             AssertTranslateTest("47", "forty seven dollars");
-            AssertTranslateTest("48", "forty eigth dollars");
+            AssertTranslateTest("48", "forty eight dollars");
             AssertTranslateTest("49", "forty nine dollars");
             AssertTranslateTest("50", "fifty dollars");
             AssertTranslateTest("51", "fifty one dollars");
@@ -66,7 +66,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("55", "fifty five dollars");
             AssertTranslateTest("56", "fifty six dollars");
             AssertTranslateTest("57", "fifty seven dollars");
-            AssertTranslateTest("58", "fifty eigth dollars");
+            AssertTranslateTest("58", "fifty eight dollars");
             AssertTranslateTest("59", "fifty nine dollars");
             AssertTranslateTest("60", "sixty dollars");
             AssertTranslateTest("61", "sixty one dollars");
@@ -76,7 +76,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("65", "sixty five dollars");
             AssertTranslateTest("66", "sixty six dollars");
             AssertTranslateTest("67", "sixty seven dollars");
-            AssertTranslateTest("68", "sixty eigth dollars");
+            AssertTranslateTest("68", "sixty eight dollars");
             AssertTranslateTest("69", "sixty nine dollars");
             AssertTranslateTest("70", "seventy dollars");
             AssertTranslateTest("71", "seventy one dollars");
@@ -86,7 +86,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("75", "seventy five dollars");
             AssertTranslateTest("76", "seventy six dollars");
             AssertTranslateTest("77", "seventy seven dollars");
-            AssertTranslateTest("78", "seventy eigth dollars");
+            AssertTranslateTest("78", "seventy eight dollars");
             AssertTranslateTest("79", "seventy nine dollars");
             AssertTranslateTest("80", "eighty dollars");
             AssertTranslateTest("81", "eighty one dollars");
@@ -96,7 +96,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("85", "eighty five dollars");
             AssertTranslateTest("86", "eighty six dollars");
             AssertTranslateTest("87", "eighty seven dollars");
-            AssertTranslateTest("88", "eighty eigth dollars");
+            AssertTranslateTest("88", "eighty eight dollars");
             AssertTranslateTest("89", "eighty nine dollars");
             AssertTranslateTest("90", "ninety dollars");
             AssertTranslateTest("91", "ninety one dollars");
@@ -106,7 +106,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("95", "ninety five dollars");
             AssertTranslateTest("96", "ninety six dollars");
             AssertTranslateTest("97", "ninety seven dollars");
-            AssertTranslateTest("98", "ninety eigth dollars");
+            AssertTranslateTest("98", "ninety eight dollars");
             AssertTranslateTest("99", "ninety nine dollars");
         }
 
@@ -121,12 +121,12 @@ namespace Numbers2WordsTests
             AssertTranslateTest("105", "one hundred and five dollars");
             AssertTranslateTest("106", "one hundred and six dollars");
             AssertTranslateTest("107", "one hundred and seven dollars");
-            AssertTranslateTest("108", "one hundred and eigth dollars");
+            AssertTranslateTest("108", "one hundred and eight dollars");
             AssertTranslateTest("109", "one hundred and nine dollars");
             AssertTranslateTest("110", "one hundred and ten dollars");
             AssertTranslateTest("111", "one hundred and eleven dollars");
             AssertTranslateTest("112", "one hundred and twelve dollars");
-            AssertTranslateTest("113", "one hundred and therteen dollars");
+            AssertTranslateTest("113", "one hundred and thirteen dollars");
             AssertTranslateTest("114", "one hundred and fourteen dollars");
             AssertTranslateTest("115", "one hundred and fifteen dollars");
             AssertTranslateTest("116", "one hundred and sixteen dollars");
@@ -141,7 +141,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("125", "one hundred and twenty five dollars");
             AssertTranslateTest("126", "one hundred and twenty six dollars");
             AssertTranslateTest("127", "one hundred and twenty seven dollars");
-            AssertTranslateTest("128", "one hundred and twenty eigth dollars");
+            AssertTranslateTest("128", "one hundred and twenty eight dollars");
             AssertTranslateTest("129", "one hundred and twenty nine dollars");
             AssertTranslateTest("130", "one hundred and thirty dollars");
             AssertTranslateTest("131", "one hundred and thirty one dollars");
@@ -151,7 +151,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("135", "one hundred and thirty five dollars");
             AssertTranslateTest("136", "one hundred and thirty six dollars");
             AssertTranslateTest("137", "one hundred and thirty seven dollars");
-            AssertTranslateTest("138", "one hundred and thirty eigth dollars");
+            AssertTranslateTest("138", "one hundred and thirty eight dollars");
             AssertTranslateTest("139", "one hundred and thirty nine dollars");
             AssertTranslateTest("140", "one hundred and forty dollars");
             AssertTranslateTest("141", "one hundred and forty one dollars");
@@ -161,7 +161,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("145", "one hundred and forty five dollars");
             AssertTranslateTest("146", "one hundred and forty six dollars");
             AssertTranslateTest("147", "one hundred and forty seven dollars");
-            AssertTranslateTest("148", "one hundred and forty eigth dollars");
+            AssertTranslateTest("148", "one hundred and forty eight dollars");
             AssertTranslateTest("149", "one hundred and forty nine dollars");
             AssertTranslateTest("150", "one hundred and fifty dollars");
             AssertTranslateTest("151", "one hundred and fifty one dollars");
@@ -171,7 +171,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("155", "one hundred and fifty five dollars");
             AssertTranslateTest("156", "one hundred and fifty six dollars");
             AssertTranslateTest("157", "one hundred and fifty seven dollars");
-            AssertTranslateTest("158", "one hundred and fifty eigth dollars");
+            AssertTranslateTest("158", "one hundred and fifty eight dollars");
             AssertTranslateTest("159", "one hundred and fifty nine dollars");
             AssertTranslateTest("160", "one hundred and sixty dollars");
             AssertTranslateTest("161", "one hundred and sixty one dollars");
@@ -181,7 +181,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("165", "one hundred and sixty five dollars");
             AssertTranslateTest("166", "one hundred and sixty six dollars");
             AssertTranslateTest("167", "one hundred and sixty seven dollars");
-            AssertTranslateTest("168", "one hundred and sixty eigth dollars");
+            AssertTranslateTest("168", "one hundred and sixty eight dollars");
             AssertTranslateTest("169", "one hundred and sixty nine dollars");
             AssertTranslateTest("170", "one hundred and seventy dollars");
             AssertTranslateTest("171", "one hundred and seventy one dollars");
@@ -191,7 +191,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("175", "one hundred and seventy five dollars");
             AssertTranslateTest("176", "one hundred and seventy six dollars");
             AssertTranslateTest("177", "one hundred and seventy seven dollars");
-            AssertTranslateTest("178", "one hundred and seventy eigth dollars");
+            AssertTranslateTest("178", "one hundred and seventy eight dollars");
             AssertTranslateTest("179", "one hundred and seventy nine dollars");
             AssertTranslateTest("180", "one hundred and eighty dollars");
             AssertTranslateTest("181", "one hundred and eighty one dollars");
@@ -201,7 +201,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("185", "one hundred and eighty five dollars");
             AssertTranslateTest("186", "one hundred and eighty six dollars");
             AssertTranslateTest("187", "one hundred and eighty seven dollars");
-            AssertTranslateTest("188", "one hundred and eighty eigth dollars");
+            AssertTranslateTest("188", "one hundred and eighty eight dollars");
             AssertTranslateTest("189", "one hundred and eighty nine dollars");
             AssertTranslateTest("190", "one hundred and ninety dollars");
             AssertTranslateTest("191", "one hundred and ninety one dollars");
@@ -211,7 +211,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("195", "one hundred and ninety five dollars");
             AssertTranslateTest("196", "one hundred and ninety six dollars");
             AssertTranslateTest("197", "one hundred and ninety seven dollars");
-            AssertTranslateTest("198", "one hundred and ninety eigth dollars");
+            AssertTranslateTest("198", "one hundred and ninety eight dollars");
             AssertTranslateTest("199", "one hundred and ninety nine dollars");
         }
 
@@ -226,12 +226,12 @@ namespace Numbers2WordsTests
             AssertTranslateTest("-205", "minus two hundred and five dollars");
             AssertTranslateTest("-206", "minus two hundred and six dollars");
             AssertTranslateTest("-207", "minus two hundred and seven dollars");
-            AssertTranslateTest("-208", "minus two hundred and eigth dollars");
+            AssertTranslateTest("-208", "minus two hundred and eight dollars");
             AssertTranslateTest("-209", "minus two hundred and nine dollars");
             AssertTranslateTest("-210", "minus two hundred and ten dollars");
             AssertTranslateTest("-211", "minus two hundred and eleven dollars");
             AssertTranslateTest("-212", "minus two hundred and twelve dollars");
-            AssertTranslateTest("-213", "minus two hundred and therteen dollars");
+            AssertTranslateTest("-213", "minus two hundred and thirteen dollars");
             AssertTranslateTest("-214", "minus two hundred and fourteen dollars");
             AssertTranslateTest("-215", "minus two hundred and fifteen dollars");
             AssertTranslateTest("-216", "minus two hundred and sixteen dollars");
@@ -246,7 +246,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("-225", "minus two hundred and twenty five dollars");
             AssertTranslateTest("-226", "minus two hundred and twenty six dollars");
             AssertTranslateTest("-227", "minus two hundred and twenty seven dollars");
-            AssertTranslateTest("-228", "minus two hundred and twenty eigth dollars");
+            AssertTranslateTest("-228", "minus two hundred and twenty eight dollars");
             AssertTranslateTest("-229", "minus two hundred and twenty nine dollars");
             AssertTranslateTest("-230", "minus two hundred and thirty dollars");
             AssertTranslateTest("-231", "minus two hundred and thirty one dollars");
@@ -256,7 +256,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("-235", "minus two hundred and thirty five dollars");
             AssertTranslateTest("-236", "minus two hundred and thirty six dollars");
             AssertTranslateTest("-237", "minus two hundred and thirty seven dollars");
-            AssertTranslateTest("-238", "minus two hundred and thirty eigth dollars");
+            AssertTranslateTest("-238", "minus two hundred and thirty eight dollars");
             AssertTranslateTest("-239", "minus two hundred and thirty nine dollars");
             AssertTranslateTest("-240", "minus two hundred and forty dollars");
             AssertTranslateTest("-241", "minus two hundred and forty one dollars");
@@ -266,7 +266,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("-245", "minus two hundred and forty five dollars");
             AssertTranslateTest("-246", "minus two hundred and forty six dollars");
             AssertTranslateTest("-247", "minus two hundred and forty seven dollars");
-            AssertTranslateTest("-248", "minus two hundred and forty eigth dollars");
+            AssertTranslateTest("-248", "minus two hundred and forty eight dollars");
             AssertTranslateTest("-249", "minus two hundred and forty nine dollars");
             AssertTranslateTest("-250", "minus two hundred and fifty dollars");
             AssertTranslateTest("-251", "minus two hundred and fifty one dollars");
@@ -276,7 +276,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("-255", "minus two hundred and fifty five dollars");
             AssertTranslateTest("-256", "minus two hundred and fifty six dollars");
             AssertTranslateTest("-257", "minus two hundred and fifty seven dollars");
-            AssertTranslateTest("-258", "minus two hundred and fifty eigth dollars");
+            AssertTranslateTest("-258", "minus two hundred and fifty eight dollars");
             AssertTranslateTest("-259", "minus two hundred and fifty nine dollars");
             AssertTranslateTest("-260", "minus two hundred and sixty dollars");
             AssertTranslateTest("-261", "minus two hundred and sixty one dollars");
@@ -286,7 +286,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("-265", "minus two hundred and sixty five dollars");
             AssertTranslateTest("-266", "minus two hundred and sixty six dollars");
             AssertTranslateTest("-267", "minus two hundred and sixty seven dollars");
-            AssertTranslateTest("-268", "minus two hundred and sixty eigth dollars");
+            AssertTranslateTest("-268", "minus two hundred and sixty eight dollars");
             AssertTranslateTest("-269", "minus two hundred and sixty nine dollars");
             AssertTranslateTest("-270", "minus two hundred and seventy dollars");
             AssertTranslateTest("-271", "minus two hundred and seventy one dollars");
@@ -296,7 +296,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("-275", "minus two hundred and seventy five dollars");
             AssertTranslateTest("-276", "minus two hundred and seventy six dollars");
             AssertTranslateTest("-277", "minus two hundred and seventy seven dollars");
-            AssertTranslateTest("-278", "minus two hundred and seventy eigth dollars");
+            AssertTranslateTest("-278", "minus two hundred and seventy eight dollars");
             AssertTranslateTest("-279", "minus two hundred and seventy nine dollars");
             AssertTranslateTest("-280", "minus two hundred and eighty dollars");
             AssertTranslateTest("-281", "minus two hundred and eighty one dollars");
@@ -306,7 +306,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("-285", "minus two hundred and eighty five dollars");
             AssertTranslateTest("-286", "minus two hundred and eighty six dollars");
             AssertTranslateTest("-287", "minus two hundred and eighty seven dollars");
-            AssertTranslateTest("-288", "minus two hundred and eighty eigth dollars");
+            AssertTranslateTest("-288", "minus two hundred and eighty eight dollars");
             AssertTranslateTest("-289", "minus two hundred and eighty nine dollars");
             AssertTranslateTest("-290", "minus two hundred and ninety dollars");
             AssertTranslateTest("-291", "minus two hundred and ninety one dollars");
@@ -316,7 +316,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("-295", "minus two hundred and ninety five dollars");
             AssertTranslateTest("-296", "minus two hundred and ninety six dollars");
             AssertTranslateTest("-297", "minus two hundred and ninety seven dollars");
-            AssertTranslateTest("-298", "minus two hundred and ninety eigth dollars");
+            AssertTranslateTest("-298", "minus two hundred and ninety eight dollars");
             AssertTranslateTest("-299", "minus two hundred and ninety nine dollars");
         }
 
@@ -331,12 +331,12 @@ namespace Numbers2WordsTests
             AssertTranslateTest("405.05", "four hundred and five dollars and five cents");
             AssertTranslateTest("406.06", "four hundred and six dollars and six cents");
             AssertTranslateTest("407.07", "four hundred and seven dollars and seven cents");
-            AssertTranslateTest("408.08", "four hundred and eigth dollars and eigth cents");
+            AssertTranslateTest("408.08", "four hundred and eight dollars and eight cents");
             AssertTranslateTest("409.09", "four hundred and nine dollars and nine cents");
             AssertTranslateTest("410.10", "four hundred and ten dollars and ten cents");
             AssertTranslateTest("411.11", "four hundred and eleven dollars and eleven cents");
             AssertTranslateTest("412.12", "four hundred and twelve dollars and twelve cents");
-            AssertTranslateTest("413.13", "four hundred and therteen dollars and therteen cents");
+            AssertTranslateTest("413.13", "four hundred and thirteen dollars and thirteen cents");
             AssertTranslateTest("414.14", "four hundred and fourteen dollars and fourteen cents");
             AssertTranslateTest("415.15", "four hundred and fifteen dollars and fifteen cents");
             AssertTranslateTest("416.16", "four hundred and sixteen dollars and sixteen cents");
@@ -351,7 +351,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("425.25", "four hundred and twenty five dollars and twenty five cents");
             AssertTranslateTest("426.26", "four hundred and twenty six dollars and twenty six cents");
             AssertTranslateTest("427.27", "four hundred and twenty seven dollars and twenty seven cents");
-            AssertTranslateTest("428.28", "four hundred and twenty eigth dollars and twenty eigth cents");
+            AssertTranslateTest("428.28", "four hundred and twenty eight dollars and twenty eight cents");
             AssertTranslateTest("429.29", "four hundred and twenty nine dollars and twenty nine cents");
             AssertTranslateTest("430.30", "four hundred and thirty dollars and thirty cents");
             AssertTranslateTest("431.31", "four hundred and thirty one dollars and thirty one cents");
@@ -361,7 +361,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("435.35", "four hundred and thirty five dollars and thirty five cents");
             AssertTranslateTest("436.36", "four hundred and thirty six dollars and thirty six cents");
             AssertTranslateTest("437.37", "four hundred and thirty seven dollars and thirty seven cents");
-            AssertTranslateTest("438.38", "four hundred and thirty eigth dollars and thirty eigth cents");
+            AssertTranslateTest("438.38", "four hundred and thirty eight dollars and thirty eight cents");
             AssertTranslateTest("439.39", "four hundred and thirty nine dollars and thirty nine cents");
             AssertTranslateTest("440.40", "four hundred and forty dollars and forty cents");
             AssertTranslateTest("441.41", "four hundred and forty one dollars and forty one cents");
@@ -371,7 +371,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("445.45", "four hundred and forty five dollars and forty five cents");
             AssertTranslateTest("446.46", "four hundred and forty six dollars and forty six cents");
             AssertTranslateTest("447.47", "four hundred and forty seven dollars and forty seven cents");
-            AssertTranslateTest("448.48", "four hundred and forty eigth dollars and forty eigth cents");
+            AssertTranslateTest("448.48", "four hundred and forty eight dollars and forty eight cents");
             AssertTranslateTest("449.49", "four hundred and forty nine dollars and forty nine cents");
             AssertTranslateTest("450.50", "four hundred and fifty dollars and fifty cents");
             AssertTranslateTest("451.51", "four hundred and fifty one dollars and fifty one cents");
@@ -381,7 +381,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("455.55", "four hundred and fifty five dollars and fifty five cents");
             AssertTranslateTest("456.56", "four hundred and fifty six dollars and fifty six cents");
             AssertTranslateTest("457.57", "four hundred and fifty seven dollars and fifty seven cents");
-            AssertTranslateTest("458.58", "four hundred and fifty eigth dollars and fifty eigth cents");
+            AssertTranslateTest("458.58", "four hundred and fifty eight dollars and fifty eight cents");
             AssertTranslateTest("459.59", "four hundred and fifty nine dollars and fifty nine cents");
             AssertTranslateTest("460.60", "four hundred and sixty dollars and sixty cents");
             AssertTranslateTest("461.61", "four hundred and sixty one dollars and sixty one cents");
@@ -391,7 +391,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("465.65", "four hundred and sixty five dollars and sixty five cents");
             AssertTranslateTest("466.66", "four hundred and sixty six dollars and sixty six cents");
             AssertTranslateTest("467.67", "four hundred and sixty seven dollars and sixty seven cents");
-            AssertTranslateTest("468.68", "four hundred and sixty eigth dollars and sixty eigth cents");
+            AssertTranslateTest("468.68", "four hundred and sixty eight dollars and sixty eight cents");
             AssertTranslateTest("469.69", "four hundred and sixty nine dollars and sixty nine cents");
             AssertTranslateTest("470.70", "four hundred and seventy dollars and seventy cents");
             AssertTranslateTest("471.71", "four hundred and seventy one dollars and seventy one cents");
@@ -401,7 +401,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("475.75", "four hundred and seventy five dollars and seventy five cents");
             AssertTranslateTest("476.76", "four hundred and seventy six dollars and seventy six cents");
             AssertTranslateTest("477.77", "four hundred and seventy seven dollars and seventy seven cents");
-            AssertTranslateTest("478.78", "four hundred and seventy eigth dollars and seventy eigth cents");
+            AssertTranslateTest("478.78", "four hundred and seventy eight dollars and seventy eight cents");
             AssertTranslateTest("479.79", "four hundred and seventy nine dollars and seventy nine cents");
             AssertTranslateTest("480.80", "four hundred and eighty dollars and eighty cents");
             AssertTranslateTest("481.81", "four hundred and eighty one dollars and eighty one cents");
@@ -411,7 +411,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("485.85", "four hundred and eighty five dollars and eighty five cents");
             AssertTranslateTest("486.86", "four hundred and eighty six dollars and eighty six cents");
             AssertTranslateTest("487.87", "four hundred and eighty seven dollars and eighty seven cents");
-            AssertTranslateTest("488.88", "four hundred and eighty eigth dollars and eighty eigth cents");
+            AssertTranslateTest("488.88", "four hundred and eighty eight dollars and eighty eight cents");
             AssertTranslateTest("489.89", "four hundred and eighty nine dollars and eighty nine cents");
             AssertTranslateTest("490.90", "four hundred and ninety dollars and ninety cents");
             AssertTranslateTest("491.91", "four hundred and ninety one dollars and ninety one cents");
@@ -421,7 +421,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("495.95", "four hundred and ninety five dollars and ninety five cents");
             AssertTranslateTest("496.96", "four hundred and ninety six dollars and ninety six cents");
             AssertTranslateTest("497.97", "four hundred and ninety seven dollars and ninety seven cents");
-            AssertTranslateTest("498.98", "four hundred and ninety eigth dollars and ninety eigth cents");
+            AssertTranslateTest("498.98", "four hundred and ninety eight dollars and ninety eight cents");
             AssertTranslateTest("499.99", "four hundred and ninety nine dollars and ninety nine cents");
         }
 
@@ -438,7 +438,7 @@ namespace Numbers2WordsTests
             AssertTranslateTest("1000000", "one million dollars");
             AssertTranslateTest("1234567", "one million and two hundred thirty four thousand five hundred sixty seven dollars");
             AssertTranslateTest("10000000", "ten million dollars");
-            AssertTranslateTest("12345678", "twelve million three hundred and forty five thousand six hundred seventy eigth dollars");
+            AssertTranslateTest("12345678", "twelve million three hundred and forty five thousand six hundred seventy eight dollars");
             AssertTranslateTest("100000000", "one hundred million dollars");
             AssertTranslateTest("1000000000", "one billion dollars");
         }
